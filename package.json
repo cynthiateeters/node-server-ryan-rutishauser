@@ -1,0 +1,26 @@
+{
+  "name": "server-ryan-rutishauser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/node-server-ryan-rutishauser.git"
+  },
+  "keywords": [],
+  "author": "Ryan Rutishauser <G00296398@stu.raritanval.edu> (https://github.com/RVCC-IDMX/cowsay-ryan-rutishauser)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/node-server-ryan-rutishauser/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/node-server-ryan-rutishauser#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.0",
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
